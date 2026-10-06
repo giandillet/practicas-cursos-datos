@@ -1,1 +1,1 @@
-# ejercicio-sql
+Repositorio para las practicas opcionales
